@@ -8,6 +8,25 @@
 
     <!-- Add new releases here (newest first) -->
     <item>
+      <title>Version 0.109</title>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.109</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>What's New in 0.109</h2>
+        <ul>
+          <li>Auto-updater</li>
+          <li>Automatic Release Notes</li>
+          <li>Enter Snap Mode on CMD Key press while dragging window</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 04 Dec 2025 02:16:44 -0800</pubDate>
+      <enclosure
+        url="https://github.com/ChaseIngersol/griddy-releases/releases/download/v0.109/Griddy-0.109.zip"
+        sparkle:edSignature="v9GR3nnEE7sfWQ+igrAbVBHdIHBuJN6z7klWC035QdnuiDLdaI3j9x4w7hPv2n3V52DY4Yr9KwQgT2Q6bGnzBA=="
+        length="1307322"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.108</title>
       <sparkle:version>8</sparkle:version>
       <sparkle:shortVersionString>0.108</sparkle:shortVersionString>
