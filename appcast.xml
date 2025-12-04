@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Griddy Updates</title>
+    <link>https://github.com/ChaseIngersol/Griddy</link>
+    <description>Most recent updates to Griddy</description>
+    <language>en</language>
+
+    <!-- Add new releases here (newest first) -->
+    <item>
+      <title>Version 0.102</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.102</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>What's New in 0.102</h2>
+        <ul>
+          <li>Sparke integration (Updater)</li>
+          <li>Enter Snap Mode on CMD key press while dragging window</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 04 Dec 2025 00:32:59 -0800</pubDate>
+      <enclosure
+        url="https://github.com/ChaseIngersol/griddy-releases/releases/download/v0.102/Griddy-0.102.zip"
+        sparkle:edSignature="RD/AP1bNXOeFOEcdQ4ZHauW9IPZVlF0m3OJubgATpqqgrdFrc1QcscFKm9+kNx/A8o0Q7J6G0BL2j1yPwpciAw=="
+        length="1307173"
+        type="application/octet-stream"/>
+    </item>
+
+
+  </channel>
+</rss>
