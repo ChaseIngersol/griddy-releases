@@ -8,21 +8,20 @@
 
     <!-- Add new releases here (newest first) -->
     <item>
-      <title>Version 0.103</title>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.103</sparkle:shortVersionString>
+      <title>Version 0.104</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.104</sparkle:shortVersionString>
       <description><![CDATA[
-        <h2>What's New in 0.103</h2>
+        <h2>What's New in 0.104</h2>
         <ul>
-          <li>Auto-updater support</li>
-          <li>Enter Snap Mode on CMD key press while dragging window</li>
+          <li>TODO: Add release notes here</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 04 Dec 2025 01:21:54 -0800</pubDate>
+      <pubDate>Thu, 04 Dec 2025 01:34:09 -0800</pubDate>
       <enclosure
-        url="https://github.com/ChaseIngersol/griddy-releases/releases/download/v0.103/Griddy-0.103.zip"
-        sparkle:edSignature="7LvpScXExZHmLeiJefdM4t5jBRqKX2wxUD86C40wEqtjn7lhTQ8hm4EaP0jWgZ+7NoH39o/JCx68TsKr/7GLAQ=="
-        length="1307015"
+        url="https://github.com/ChaseIngersol/griddy-releases/releases/download/v0.104/Griddy-0.104.zip"
+        sparkle:edSignature="D/8qygeeKqKEAwqwzr3dgRqceZQRY3eABBqOb+CAyD4cvXk9hONOKfmNLho/tkoedefMVX017063k8ItHEvTCg=="
+        length="1307191"
         type="application/octet-stream"/>
     </item>
 
