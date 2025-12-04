@@ -8,24 +8,23 @@
 
     <!-- Add new releases here (newest first) -->
     <item>
-      <title>Version 0.102</title>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>0.102</sparkle:shortVersionString>
+      <title>Version 0.103</title>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.103</sparkle:shortVersionString>
       <description><![CDATA[
-        <h2>What's New in 0.102</h2>
+        <h2>What's New in 0.103</h2>
         <ul>
-          <li>Sparke integration (Updater)</li>
+          <li>Auto-updater support</li>
           <li>Enter Snap Mode on CMD key press while dragging window</li>
         </ul>
       ]]></description>
-      <pubDate>Thu, 04 Dec 2025 00:32:59 -0800</pubDate>
+      <pubDate>Thu, 04 Dec 2025 01:21:54 -0800</pubDate>
       <enclosure
-        url="https://github.com/ChaseIngersol/griddy-releases/releases/download/v0.102/Griddy-0.102.zip"
-        sparkle:edSignature="RD/AP1bNXOeFOEcdQ4ZHauW9IPZVlF0m3OJubgATpqqgrdFrc1QcscFKm9+kNx/A8o0Q7J6G0BL2j1yPwpciAw=="
-        length="1307173"
+        url="https://github.com/ChaseIngersol/griddy-releases/releases/download/v0.103/Griddy-0.103.zip"
+        sparkle:edSignature="7LvpScXExZHmLeiJefdM4t5jBRqKX2wxUD86C40wEqtjn7lhTQ8hm4EaP0jWgZ+7NoH39o/JCx68TsKr/7GLAQ=="
+        length="1307015"
         type="application/octet-stream"/>
     </item>
-
 
   </channel>
 </rss>
