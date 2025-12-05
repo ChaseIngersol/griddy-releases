@@ -8,6 +8,23 @@
 
     <!-- Add new releases here (newest first) -->
     <item>
+      <title>Version 0.113</title>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.113</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>What's New in 0.113</h2>
+        <ul>
+          <li>New App Icon</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 05 Dec 2025 02:49:08 -0800</pubDate>
+      <enclosure
+        url="https://github.com/ChaseIngersol/griddy-releases/releases/download/v0.113/Griddy-0.113.zip"
+        sparkle:edSignature="QRTKjh9YGEILiqiCAWSXb1VrY9K+9Z9XCPGQplYzYUDoHPYah+LEfLI76frc90NWTrEzi2Oe3RLuVeWlCqYvBA=="
+        length="4175309"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.112</title>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>0.112</sparkle:shortVersionString>
