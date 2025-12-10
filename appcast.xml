@@ -8,6 +8,23 @@
 
     <!-- Add new releases here (newest first) -->
     <item>
+      <title>Version 0.116</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.116</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>What's New in 0.116</h2>
+        <ul>
+          <li>Icon fix for Sequoia</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 10 Dec 2025 01:18:45 -0800</pubDate>
+      <enclosure
+        url="https://github.com/ChaseIngersol/griddy-releases/releases/download/v0.116/Griddy-0.116.zip"
+        sparkle:edSignature="74S9dfiGvIFS95jowXQATR3UytAlg9RKwbQ1GiKmVkxrjueq6varXrztdt7U48o0U18/5dvEf5OtuMt8f5dKBQ=="
+        length="2457531"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.115</title>
       <sparkle:version>15</sparkle:version>
       <sparkle:shortVersionString>0.115</sparkle:shortVersionString>
