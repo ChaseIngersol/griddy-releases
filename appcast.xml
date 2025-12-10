@@ -8,6 +8,23 @@
 
     <!-- Add new releases here (newest first) -->
     <item>
+      <title>Version 0.119</title>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.119</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>What's New in 0.119</h2>
+        <ul>
+          <li>Fix for app window collapsing past min-width on monitor change</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 10 Dec 2025 02:30:08 -0800</pubDate>
+      <enclosure
+        url="https://github.com/ChaseIngersol/griddy-releases/releases/download/v0.119/Griddy-0.119.zip"
+        sparkle:edSignature="IEHkrfEntGo2U4+bzS63Bv60C/n8bMwrbZjvhzqy5g5dE/p4TMjf9PRPuaMc8SU2LCNwmGVg3LZ2II+D9+OODw=="
+        length="2367678"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.118</title>
       <sparkle:version>18</sparkle:version>
       <sparkle:shortVersionString>0.118</sparkle:shortVersionString>
