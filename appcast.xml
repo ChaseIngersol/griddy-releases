@@ -8,6 +8,24 @@
 
     <!-- Add new releases here (newest first) -->
     <item>
+      <title>Version 0.201</title>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.201</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>What's New in 0.201</h2>
+        <ul>
+          <li>Improve logic for checking Accessibility API permissions</li>
+          <li>More Light Mode fixes/improvements</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 12 Dec 2025 01:45:54 -0800</pubDate>
+      <enclosure
+        url="https://github.com/ChaseIngersol/griddy-releases/releases/download/v0.201/Griddy-0.201.zip"
+        sparkle:edSignature="cqITXB/X9yc+StAzOI+HlpHb/h9McQNbFlVVzTMN0oHDjLylJaP54F7s2IlVbaERjLWsqorfpFKMouJMb2InAg=="
+        length="2056941"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.200</title>
       <sparkle:version>20</sparkle:version>
       <sparkle:shortVersionString>0.200</sparkle:shortVersionString>
